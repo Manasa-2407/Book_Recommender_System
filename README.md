@@ -21,3 +21,4 @@ This project recommends books to users by analyzing book metadata such as title,
 - **Flask** or **Streamlit** – Web Interface 
 - **HTML/CSS** – Frontend for displaying book info
 
+![Book Screenshot](https://github.com/Manasa-2407/Book_Recommender_System/blob/main/Screenshot%202025-06-14%20124112.png)
